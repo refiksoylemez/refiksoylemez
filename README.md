@@ -12,9 +12,6 @@ Welcome to my GitHub profile! I am a passionate social engineer dedicated to dev
 - **DevOps & Cloud Technologies:** Docker, Kubernetes, AWS, Azure, CI/CD Pipelines.
 - **Database Systems:** PostgreSQL, MySQL, MongoDB, Redis.
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=refiksoylemez&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/refiksoylemez](https://www.linkedin.com/in/refiksoylemez)
 - 🐦 **X (Twitter):** [x.com/refiksoylemez](https://x.com/refiksoylemez)
